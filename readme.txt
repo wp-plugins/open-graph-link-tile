@@ -1,12 +1,12 @@
 === Open Graph link tile ===
 Contributors: kotaroho
-Donate link: http://example.com/
 Tags: OGP, link
 Requires at least: 2.6
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate link: http://www.amazon.co.jp/registry/wishlist/2SX2KJZ61XD3A
 
 This WordPress plugin makes a link tile from Open Graph protocol.
 
@@ -30,7 +30,7 @@ OGP data from linked site is cached for a week. (You can change my PHP code)
 
 This section describes how to install the plugin and get it working.
 
-1. Upload `koho_oglinktile` directory to the `/wp-content/plugins/` directory
+1. Upload `open-graph-link-tile` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `[khlt_linktile url="URL"]` in your article
 
